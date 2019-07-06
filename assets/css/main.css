@@ -1958,10 +1958,10 @@ input, select, textarea {
 			}
 
 			.main.style1 > .content {
-				-moz-transition: opacity 1s ease;
-				-webkit-transition: opacity 1s ease;
-				-ms-transition: opacity 1s ease;
-				transition: opacity 1s ease;
+				-moz-transition: opacity 0.5s ease;
+				-webkit-transition: opacity 0.5s ease;
+				-ms-transition: opacity 0.5s ease;
+				transition: opacity 0.5s ease;
 				-moz-transform: translateZ(0);
 				-webkit-transform: translateZ(0);
 				-ms-transform: translateZ(0);
@@ -1988,10 +1988,10 @@ input, select, textarea {
 		}
 
 			.main.style2 > .content {
-				-moz-transition: -moz-transform 1s ease;
+				-moz-transition: -moz-transform 0.5s ease;
 				-webkit-transition: -webkit-transform 1s ease;
-				-ms-transition: -ms-transform 1s ease;
-				transition: transform 1s ease;
+				-ms-transition: -ms-transform 0.5s ease;
+				transition: transform 0.5s ease;
 				-moz-transform: translateZ(0);
 				-webkit-transform: translateZ(0);
 				-ms-transform: translateZ(0);
