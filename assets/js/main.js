@@ -179,7 +179,7 @@
 
 			};
 
-			breakpoints.on('<=small', off);
+			breakpoints.on('<=small', on); // ********TURN OFF TO REMOVE ANIMATIONS FOR MOBILE SITES********* //
 			breakpoints.on('>small', on);
 
 		}
