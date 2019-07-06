@@ -955,7 +955,7 @@ input, select, textarea {
 
 	.image {
 		position: relative;
-		display: inline-block;
+		display: inline-block;f
 	}
 
 		.image:before {
@@ -2254,8 +2254,8 @@ input, select, textarea {
 /* One */
 
 	#one {
-		background: url("images/alex-face2.png"), url("../../images/one.jpg");
-		background-size: 50% cover;
+		background: url("images/alex-face-background.png"), url("../../images/one.jpg");
+		background-size: cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
     background-repeat: no-repeat;
@@ -2309,5 +2309,4 @@ input, select, textarea {
 			#contact .box {
 				padding: 1em 1em 2em 1em;
 			}
-
 		}
