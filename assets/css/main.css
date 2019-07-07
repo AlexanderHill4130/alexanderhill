@@ -1928,7 +1928,7 @@ input, select, textarea {
 			max-width: calc(100% - 4em);
 			margin: 0 auto;
       border-radius: 6px;
-      opacity: 0.7;
+      opacity: 0.9;
 		}
 
 			.main > .content > :last-child {
