@@ -2240,7 +2240,7 @@ input, select, textarea {
 /* Intro */
 
   #intro {
-		background: url("images/Alex-Vietnam.jpg"), url("../../images/Alex-Vietnam.jpg");
+		background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url("https://picsum.photos/id/249/3000/2000?blur=1");
 		background-size: cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
